@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "79eefe40f0493e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b2ac74aa7eaa54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Probabilidad y Estadisticas - Gomila/Curso de Probabilidad - Gomila.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea27baf73138030f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17504d42acdf966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dd0f915dd751bc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96c55c181fefeb68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "natura",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e8e9b47fa864199",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241
+  },
+  "right": {
+    "id": "e4f4c4537663ec27",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ca667c3c0e6dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77738f6af9cec4bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Probabilidad y Estadisticas - Gomila/Curso de Probabilidad - Gomila.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca061aac85aac3b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Probabilidad y Estadisticas - Gomila/Curso de Probabilidad - Gomila.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a11f6283ab80b37b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c798385a0a4ed15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Probabilidad y Estadisticas - Gomila/Curso de Probabilidad - Gomila.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99b2ac74aa7eaa54",
+  "lastOpenFiles": [
+    "Probabilidad y Estadisticas - Gomila/Curso de Probabilidad - Gomila.md",
+    "Curso analisis de negocios para ciencia de datos.md",
+    "Fundamentos de Base de Datos.md",
+    "Aprendiendo Excel.md"
+  ]
+}

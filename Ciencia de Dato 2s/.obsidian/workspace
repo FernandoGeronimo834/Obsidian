@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "295ca4ce0cdb798d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3e1c9a87990ce9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estadisticas Descriptiva.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39a6a30047b8e0e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93608ee3d64d665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ede86f849e42ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9091fea599c1878e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f49a90bf679359b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf8c75ae40f8933a",
+    "type": "split",
+    "children": [
+      {
+        "id": "389d18cc49e97ea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e899d0161c8d153",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estadisticas Descriptiva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65122e04dd8b31db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estadisticas Descriptiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e6fac3ad6717c7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c666ab4defd81f1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estadisticas Descriptiva.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb3e1c9a87990ce9",
+  "lastOpenFiles": [
+    "Estadisticas Descriptiva.md",
+    "vertopal.com_Tema6.md"
+  ]
+}
